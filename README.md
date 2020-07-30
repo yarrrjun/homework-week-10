@@ -45,7 +45,7 @@ If you want to contribute, please fork it first!
 To run tests, run the following command:
         
 ```
-
+npm test
 ```
         
 ## Questions
